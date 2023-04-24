@@ -45,7 +45,7 @@ print(len(var3))
 for i in range(len(var3)):
     print(var3[i])
     
-### dont look at this code
+###
 
 list_of_lists = [[random.randint(0,10) for j in range(5)] for i in range(5)] # list comprehension
 
