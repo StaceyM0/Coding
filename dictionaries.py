@@ -30,7 +30,7 @@ for k, v in var2.items():
 
 dict_of_lists = {i:[random.randint(0,10) for j in range(5)] for i in range(5)} # dict comprehension
 
-### you can look again
+### 
 
 for k, v in dict_of_lists.items():
     print(k, v)
