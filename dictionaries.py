@@ -26,7 +26,7 @@ print(list(var2.values()))
 for k, v in var2.items():
     print(k, v)
     
-### dont look at this code
+### 
 
 dict_of_lists = {i:[random.randint(0,10) for j in range(5)] for i in range(5)} # dict comprehension
 
