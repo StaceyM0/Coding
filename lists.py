@@ -49,7 +49,7 @@ for i in range(len(var3)):
 
 list_of_lists = [[random.randint(0,10) for j in range(5)] for i in range(5)] # list comprehension
 
-### you can look again
+###
 
 print(list_of_lists)
 
