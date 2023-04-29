@@ -17,3 +17,14 @@ if __name__ == '__main__':
     last_name = input("Input last name: ")
     print_full_name(first_name, last_name)
     print_full_name("Ross", "Taylor")
+    
+    yes yes yes 
+    
+        yes yes yes 
+        
+            yes yes yes 
+            
+                yes yes yes 
+                
+                    yes yes yes 
+    yes yes yes 
