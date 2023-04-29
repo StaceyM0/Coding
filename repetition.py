@@ -18,26 +18,3 @@ while number != 52: # do until condition is false
     counter += 1
     
 print(counter, number)
-
-
-    yes yes yes 
-    
-        yes yes yes 
-        
-            yes yes yes 
-            
-                yes yes yes 
-                
-                    yes yes yes 
-    yes yes yes 
-    
-        yes yes yes 
-    
-        yes yes yes 
-        
-            yes yes yes 
-            
-                yes yes yes 
-                
-                    yes yes yes 
-    yes yes yes 
