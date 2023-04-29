@@ -62,3 +62,15 @@ for i in range(len(list_of_lists)): # didnt use the variable name list because i
     print(list_of_lists[i])
     for j in range(len(list_of_lists[i])):
         print(list_of_lists[i][j])
+
+        
+            yes yes yes 
+    
+        yes yes yes 
+        
+            yes yes yes 
+            
+                yes yes yes 
+                
+                    yes yes yes 
+    yes yes yes 
