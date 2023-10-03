@@ -1,4 +1,1 @@
-
-
-
 print(input("Hello World"))
